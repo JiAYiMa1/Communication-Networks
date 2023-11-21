@@ -1,0 +1,4 @@
+fe80::/64 dev STGArouter  metric 256 
+fe80::/64 dev ssh  metric 256 
+multicast ff00::/8 dev STGArouter  metric 256 
+multicast ff00::/8 dev ssh  metric 256 
