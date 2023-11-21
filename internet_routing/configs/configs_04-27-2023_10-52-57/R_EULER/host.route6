@@ -1,6 +1,0 @@
-24:201:1000::/48 dev 24-S3  metric 256 
-fe80::/64 dev 24-S3  metric 256 
-fe80::/64 dev ssh  metric 256 
-default via 24:201:1000::1 dev 24-S3  metric 1024 
-multicast ff00::/8 dev 24-S3  metric 256 
-multicast ff00::/8 dev ssh  metric 256 

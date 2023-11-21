@@ -1,2 +1,0 @@
-sit0: ipv6/ip remote any local any ttl 64 nopmtudisc 6rd-prefix 2002::/16
-LUGA_ZURI: ipv6/ip remote 24.151.0.1 local 24.157.0.1 ttl 255 6rd-prefix 2002::/16

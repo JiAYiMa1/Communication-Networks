@@ -1,3 +1,0 @@
-default via 24.103.0.2 dev LUCErouter 
-24.103.0.0/24 dev LUCErouter scope link  src 24.103.0.1 
-158.24.0.0/16 dev ssh scope link  src 158.24.12.2 
